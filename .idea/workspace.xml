@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5abdd367-0605-42e0-af9e-c7f0f44fd8f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devdojo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Estruturascondicionais03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Estruturascondicionais04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Estruturascondicionais05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Estruturascondicionais06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeticao01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeticao02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeticao03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeticao04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeticao05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula07Arrays01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula07Arrays02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +31,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,9 +65,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais02">
-    <configuration name="Aula02TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula02TiposPrimitivos" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.introducao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aula07Arrays02">
+    <configuration name="Aula06EstruturaDeRepeticao03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula06EstruturaDeRepeticao03" />
       <module name="devdojo" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula05EstruturasCondicionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais01" />
+    <configuration name="Aula06EstruturaDeRepeticao05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula06EstruturaDeRepeticao05" />
       <module name="devdojo" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula05EstruturasCondicionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais02" />
+    <configuration name="Aula07Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula07Arrays01" />
       <module name="devdojo" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicio" />
+    <configuration name="Aula07Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula07Arrays02" />
       <module name="devdojo" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.devdojo.maratonajava.introducao.Aula04Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula04Operadores" />
+    <configuration name="academy.devdojo.maratonajava.introducao.Aula06EstruturaDeRepeticao04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula06EstruturaDeRepeticao04" />
       <module name="devdojo" />
       <extension name="coverage">
         <pattern>
@@ -121,10 +138,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula05EstruturasCondicionais02" />
-        <item itemvalue="Application.Aula05EstruturasCondicionais01" />
-        <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula04Operadores" />
-        <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicio" />
+        <item itemvalue="Application.Aula07Arrays02" />
+        <item itemvalue="Application.Aula07Arrays01" />
+        <item itemvalue="Application.Aula06EstruturaDeRepeticao05" />
+        <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula06EstruturaDeRepeticao04" />
       </list>
     </recent_temporary>
   </component>
